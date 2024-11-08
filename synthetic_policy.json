@@ -1,0 +1,86 @@
+[
+    {
+        "message": "What's your return policy?",
+        "label": "Return Policy"
+    },
+    {
+        "message": "How can I get a refund?",
+        "label": "Refund Policy"
+    },
+    {
+        "message": "What is your shipping policy?",
+        "label": "Shipping Policy"
+    },
+    {
+        "message": "Do you offer free returns?",
+        "label": "Return Policy"
+    },
+    {
+        "message": "How long do I have to return a book?",
+        "label": "Return Policy"
+    },
+    {
+        "message": "Is there a refund option for damaged books?",
+        "label": "Refund Policy"
+    },
+    {
+        "message": "Can you explain the return process?",
+        "label": "Return Policy"
+    },
+    {
+        "message": "Is there any charge for shipping?",
+        "label": "Shipping Policy"
+    },
+    {
+        "message": "How soon can I get my money back on a return?",
+        "label": "Refund Policy"
+    },
+    {
+        "message": "What are the conditions for refunds?",
+        "label": "Refund Policy"
+    },
+    {
+        "message": "What is your policy on late returns?",
+        "label": "Return Policy"
+    },
+    {
+        "message": "Can I return a book if it's damaged?",
+        "label": "Return Policy"
+    },
+    {
+        "message": "How long does shipping usually take?",
+        "label": "Shipping Policy"
+    },
+    {
+        "message": "What are the conditions for a full refund?",
+        "label": "Refund Policy"
+    },
+    {
+        "message": "Is there a fee for returning a book?",
+        "label": "Return Policy"
+    },
+    {
+        "message": "What's your policy on international shipping?",
+        "label": "Shipping Policy"
+    },
+    {
+        "message": "Can I cancel my order after it's shipped?",
+        "label": "Shipping Policy"
+    },
+    {
+        "message": "How do I return an ebook?",
+        "label": "Return Policy"
+    },
+    {
+        "message": "Is it possible to exchange a book instead of returning it?",
+        "label": "Return Policy"
+    },
+    {
+        "message": "Do you offer refunds on digital purchases?",
+        "label": "Refund Policy"
+    },
+    {
+        "message": "What is your return policy for pre-owned books?",
+        "label": "Return Policy"
+    }
+]

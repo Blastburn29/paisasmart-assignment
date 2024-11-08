@@ -1,0 +1,402 @@
+[
+    {
+        "message": "How do I check the shipping status of my order?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "Can you check if my order #P123EF has shipped?",
+        "label": "Order Status"
+    },
+    {
+        "message": "Review for 'To Kill a Mockingbird': A timeless classic.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "Review for 'The Catcher in the Rye': I found it overrated.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "Review for 'To Kill a Mockingbird': A must-read for everyone.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "Can I return a book if it\u2019s damaged?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "What is your policy on late returns?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "I haven\u2019t received my package yet. Order #F678MN.",
+        "label": "Order Status"
+    },
+    {
+        "message": "Can you check the status of my order #A123BC?",
+        "label": "Order Status"
+    },
+    {
+        "message": "Is there a biography of Albert Einstein?",
+        "label": "Book Search"
+    },
+    {
+        "message": "What are the conditions for refunds?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "How soon can I get my money back on a return?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "This is my review of '1984': It\u2019s hauntingly relevant.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "I loved 'The Alchemist'. Here\u2019s my review: Inspiring and profound.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "Is there any charge for shipping?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "Is it possible to exchange a book instead of returning it?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "Let me review 'A Tale of Two Cities': Emotional and powerful.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "Do you offer free returns?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "This is my feedback on 'Moby Dick': It\u2019s a classic but quite slow.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "What is your shipping policy?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "I didn\u2019t enjoy 'The Road'. Here's my review: Too bleak for my taste.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "Let me submit a 2-star review for 'Dracula': Not what I expected.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "Is there a fee for returning a book?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "Are there any shipping charges for orders over $50?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "Let me submit my thoughts on 'Pride and Prejudice': A true masterpiece.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "What is your return policy for pre-owned books?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "Do you stock any books by Stephen King?",
+        "label": "Book Search"
+    },
+    {
+        "message": "Can you help me find 'The Hobbit'?",
+        "label": "Book Search"
+    },
+    {
+        "message": "I loved 'The Great Gatsby'. Here's my review: A masterpiece!",
+        "label": "Review Submission"
+    },
+    {
+        "message": "My order #H234QR hasn\u2019t been shipped yet.",
+        "label": "Order Status"
+    },
+    {
+        "message": "Do you offer refunds on digital purchases?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "I need to find books related to machine learning.",
+        "label": "Book Search"
+    },
+    {
+        "message": "When will my order #N567AB arrive?",
+        "label": "Order Status"
+    },
+    {
+        "message": "Are there restrictions on returning discounted books?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "Submitting a 3-star review for 'The Great Gatsby': It's okay.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "This is my review for '1984': It's a timeless piece of literature.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "Can you suggest books like 'Harry Potter'?",
+        "label": "Book Search"
+    },
+    {
+        "message": "I'd like to give a 5-star rating for 'The Lord of the Rings'.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "Review of 'Harry Potter': Best book series ever!",
+        "label": "Review Submission"
+    },
+    {
+        "message": "I'm searching for a book titled 'War and Peace'.",
+        "label": "Book Search"
+    },
+    {
+        "message": "How long do I have to return a book?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "Has my order #X567UV been dispatched?",
+        "label": "Order Status"
+    },
+    {
+        "message": "What\u2019s your policy on international shipping?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "My order #S012KL is still showing pending. Why?",
+        "label": "Order Status"
+    },
+    {
+        "message": "Here\u2019s my feedback for 'The Catcher in the Rye': Very relatable.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "I'm submitting a review for 'Frankenstein': A great take on humanity.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "I want to read something similar to '1984'.",
+        "label": "Book Search"
+    },
+    {
+        "message": "What are the conditions for a full refund?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "Where is my order #T345MN?",
+        "label": "Order Status"
+    },
+    {
+        "message": "Can you explain the return process?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "Please provide a status update for order #Z123YZ.",
+        "label": "Order Status"
+    },
+    {
+        "message": "I'm looking for books by George R.R. Martin.",
+        "label": "Book Search"
+    },
+    {
+        "message": "Can you recommend some books on science fiction?",
+        "label": "Book Search"
+    },
+    {
+        "message": "Do you have 'To Kill a Mockingbird' in stock?",
+        "label": "Book Search"
+    },
+    {
+        "message": "What\u2019s your return policy?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "I need to know the status of my order #J567ST.",
+        "label": "Order Status"
+    },
+    {
+        "message": "I want an update on my order #O890CD.",
+        "label": "Order Status"
+    },
+    {
+        "message": "Order #Y890WX seems delayed. Can you help?",
+        "label": "Order Status"
+    },
+    {
+        "message": "How can I get a refund?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "Where can I find 'The Lord of the Rings'?",
+        "label": "Book Search"
+    },
+    {
+        "message": "I'd give 'War and Peace' a 4-star rating: It\u2019s long but worth it.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "Can you find me books by J.K. Rowling?",
+        "label": "Book Search"
+    },
+    {
+        "message": "I'm searching for a book titled 'The Picture of Dorian Gray'.",
+        "label": "Book Search"
+    },
+    {
+        "message": "Do you have 'Brave New World' in hardcover?",
+        "label": "Book Search"
+    },
+    {
+        "message": "Is my order #E345KL delayed?",
+        "label": "Order Status"
+    },
+    {
+        "message": "How do I return an ebook?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "How long does it take for delivery? My order is #G901OP.",
+        "label": "Order Status"
+    },
+    {
+        "message": "I want to buy 'Thinking, Fast and Slow'.",
+        "label": "Book Search"
+    },
+    {
+        "message": "Review for 'A Tale of Two Cities': A beautiful narrative of love and sacrifice.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "Is there a refund option for damaged books?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "Is there a book by George Orwell?",
+        "label": "Book Search"
+    },
+    {
+        "message": "Can I return a book without a receipt?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "How can I track my order #M234YZ?",
+        "label": "Order Status"
+    },
+    {
+        "message": "My thoughts on 'War and Peace': A bit too long but amazing.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "Can you tell me when my order #D012IJ will arrive?",
+        "label": "Order Status"
+    },
+    {
+        "message": "Can you tell me the expected delivery date for my order #U678OP?",
+        "label": "Order Status"
+    },
+    {
+        "message": "I'm looking for the book 'The Catcher in the Rye'.",
+        "label": "Book Search"
+    },
+    {
+        "message": "How long does shipping usually take?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "What\u2019s the delivery time for order #Q456GH?",
+        "label": "Order Status"
+    },
+    {
+        "message": "Where can I find 'Sapiens: A Brief History of Humankind'?",
+        "label": "Book Search"
+    },
+    {
+        "message": "When will my order #K890UV be dispatched?",
+        "label": "Order Status"
+    },
+    {
+        "message": "Submitting a review for 'Harry Potter': Magical!",
+        "label": "Review Submission"
+    },
+    {
+        "message": "Is there a book similar to 'The Alchemist'?",
+        "label": "Book Search"
+    },
+    {
+        "message": "Here's my review of 'The Shining': It\u2019s chillingly good!",
+        "label": "Review Submission"
+    },
+    {
+        "message": "Can you recommend a good fantasy book?",
+        "label": "Book Search"
+    },
+    {
+        "message": "My package hasn\u2019t arrived yet. Order number is #V901QR.",
+        "label": "Order Status"
+    },
+    {
+        "message": "This is my review of 'Moby Dick': A thrilling adventure.",
+        "label": "Review Submission"
+    },
+    {
+        "message": "Can you show me books that are available in the thriller genre?",
+        "label": "Book Search"
+    },
+    {
+        "message": "Here\u2019s my 5-star rating for 'The Lord of the Rings': Simply epic!",
+        "label": "Review Submission"
+    },
+    {
+        "message": "I want to track my order #C789GH.",
+        "label": "Order Status"
+    },
+    {
+        "message": "I haven\u2019t received order #R789IJ yet.",
+        "label": "Order Status"
+    },
+    {
+        "message": "Find me some bestsellers in the fiction category.",
+        "label": "Book Search"
+    },
+    {
+        "message": "Tell me more about the book 'Pride and Prejudice'.",
+        "label": "Book Search"
+    },
+    {
+        "message": "Where is my order #B456DF? It\u2019s been a week.",
+        "label": "Order Status"
+    },
+    {
+        "message": "Can I cancel my order after it's shipped?",
+        "label": "Store Policy Enquiry"
+    },
+    {
+        "message": "I'd like to submit a review for 'Pride and Prejudice': Brilliant!",
+        "label": "Review Submission"
+    },
+    {
+        "message": "What is the current status of my order #L901WX?",
+        "label": "Order Status"
+    },
+    {
+        "message": "Do you sell 'The Da Vinci Code' by Dan Brown?",
+        "label": "Book Search"
+    },
+    {
+        "message": "Please find me a list of popular science books.",
+        "label": "Book Search"
+    },
+    {
+        "message": "Can I change the delivery address for order #W234ST?",
+        "label": "Order Status"
+    }
+]
